@@ -1,0 +1,1 @@
+This repository contains a Blender file with background from the Blender How to tutorials, I've done it the way I like it but will upload more as I continue to create my "Mind pattern trainer" videogame :P
